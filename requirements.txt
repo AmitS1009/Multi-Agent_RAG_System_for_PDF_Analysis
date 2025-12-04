@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-openai
+chromadb
+pdfplumber
+pymupdf
+python-dotenv
+tiktoken
+faiss-cpu
+rank_bm25
