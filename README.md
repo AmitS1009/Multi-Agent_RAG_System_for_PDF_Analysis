@@ -68,7 +68,7 @@ graph TD
 
 ### Prerequisites
 -   Python 3.10+
--   API Key for Google Gemini or OpenAI
+-   API Key for OpenAI
 
 ### Installation
 
