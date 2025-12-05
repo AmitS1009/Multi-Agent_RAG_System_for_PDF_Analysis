@@ -86,8 +86,6 @@ graph TD
 3.  **Configure Environment**
     Create a `.env` file in the root directory:
     ```env
-    GOOGLE_API_KEY=your_api_key_here
-    # OR
     OPENAI_API_KEY=your_api_key_here
     ```
 
