@@ -118,4 +118,3 @@ To further elevate this system into a production-grade enterprise solution, the 
 -   **Deployment & Scalability**: Dockerizing the application and deploying it on cloud infrastructure (AWS/GCP) with a **FastAPI** backend and React frontend for better scalability.
 
 ---
-*Built by AMIT KUSHWAHA.*
